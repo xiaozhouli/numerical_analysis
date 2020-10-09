@@ -90,6 +90,8 @@ In order to avoid potential installation issues altogether, or as a secondary op
 
 | Time       |      Content       |
 | :--------- | :----------------: |
+| 2020.10.09 | create a gitee.com mirror repository for fast access in China mainland  |
+| 2020.10.09 | move from github.com/Jupyter repository to github.com/numerical_analysis |
 | 2020.09.07 | update along with 2020 Fall course |
 | 2020.06.29 | update ReadMe file |
 | 2020.06.25 | start record :joy: |
