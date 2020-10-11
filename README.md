@@ -63,13 +63,13 @@ This repository includes jupyter-notebooks and python codes for the classic topi
 
 ## Where
   
-- These notebooks and python codes are published on [Github](https://github.com/xiaozhouli/Jupyter/tree/master/Numerical_Analysis) (https://github.com/xiaozhouli/numerical\_analysis) for public usages.
+- These notebooks and python codes are published on [[_Github_]](https://github.com/xiaozhouli/Jupyter/tree/master/Numerical_Analysis) (https://github.com/xiaozhouli/numerical\_analysis) for public usages.
   - git clone https://github.com/xiaozhouli/numerical_analysis.git 
-  - or download as a zip file [zip file](https://codeload.github.com/xiaozhouli/numerical_analysis/zip/master)
-- For users from Mainland China, where visiting github.com is relatively slow, there is a mirror repository published on [gitee](https://gitee.com/xiaozhouli/numerical_analysis) (https://gitee.com/xiaozhouli/numerical\_analysis).
+  - or download as a zip file [[_zip file_]](https://codeload.github.com/xiaozhouli/numerical_analysis/zip/master)
+- For users from Mainland China, where visiting github.com is relatively slow, there is a mirror repository published on [[_gitee_]](https://gitee.com/xiaozhouli/numerical_analysis) (https://gitee.com/xiaozhouli/numerical\_analysis).
   - git clone https://gitee.com/xiaozhouli/numerical_analysis.git 
   - or download as a zip file from the above link.
-- If you only want to have a view of the notebooks, you can just go to the following [Nbviewer link](https://nbviewer.jupyter.org/github/xiaozhouli/Jupyter/tree/master/Numerical_Analysis/)
+- If you only want to have a view of the notebooks, you can just go to the following [[_Nbviewer link_]](https://nbviewer.jupyter.org/github/xiaozhouli/Jupyter/tree/master/Numerical_Analysis/)
 
 
 *** 
@@ -78,7 +78,7 @@ You are welcome to download the notebooks and play with them yourself.  Of cours
 
 **Local installation:** 
 
-- The simplest way to have a local installation of all needed packages is to install the [Anaconda platform](https://www.anaconda.org). It is free and open-source.  It has more than 1500 python/R data science packages which includes all of the Python packages likely to be used in a scientific computing (or machine learning) course. More importantly, it supports Linux, Mac, and Windows systems.
+- The simplest way to have a local installation of all needed packages is to install the [[_Anaconda platform_]](https://www.anaconda.org). It is free and open-source.  It has more than 1500 python/R data science packages which includes all of the Python packages likely to be used in a scientific computing (or machine learning) course. More importantly, it supports Linux, Mac, and Windows systems.
 
 - If you prefer to install everything manually, the requirement list is given as follows:
   - python
@@ -89,8 +89,8 @@ You are welcome to download the notebooks and play with them yourself.  Of cours
 
 In order to avoid potential installation issues altogether, or as a secondary option, notebooks can be run using only cloud services.
 
-- [Cocalc](https://cocalc.com/doc/jupyter-notebook.html) (formerly called SageMathCloud)
-- [Colab](https://colab.research.google.com) (VPN needed for Mainland China)
+- [[_Cocalc_]](https://cocalc.com/doc/jupyter-notebook.html) (formerly called SageMathCloud)
+- [[_Colab_]](https://colab.research.google.com) (VPN needed for Mainland China)
 
   
 
