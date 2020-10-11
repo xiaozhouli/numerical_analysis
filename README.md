@@ -4,18 +4,12 @@ Those tutorials by __Xiaozhou Li__ is licensed under a <a rel="license" href="ht
 All code examples are also licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 
-
 ***
 
 ## Introduction
-The course of Numerical Analysis should teach both mathematical theory of
-numerical analysis and the craft of implementing numerical algorithms.
-Unfortunatly, usually only the mathematical theory is actually mentioned in the
-course syllabus/textbook.  This is the reason and motivation for creating these
-Jupyter-notebooks.  The Jupyter-notebook provides a single medium in which
-mathematics, explanations, executable code, and visualizations can be combined,
-and with which the student can interact in order to learn both the theory and
-the craft of numerical algorithms. 
+The course of Numerical Analysis should teach both the mathematical theory of numerical analysis and the craft of implementing numerical algorithms. Unfortunately, usually, only the mathematical theory is mentioned in the course syllabus/textbook. This is the reason and motivation for creating these jupyter-notebooks. The Jupyter-notebook provides a single medium in which mathematics, explanations, executable code, and visualizations can be combined. The student can interact with learning both the theory and the craft of numerical algorithms. 
+
+This repository includes jupyter-notebooks and python codes for the classic topics coved in a numerical analysis course.   
 
 **Important Note:**
 
@@ -67,20 +61,36 @@ the craft of numerical algorithms.
 
 ***
 
-## How to Use
-These notebooks are published on [Github](https://github.com/xiaozhouli/Jupyter/tree/master/Numerical_Analysis) for public.  If you only want to have
-a view of the notebooks, you can just go to the following [Nbviewer link](https://nbviewer.jupyter.org/github/xiaozhouli/Jupyter/tree/master/Numerical_Analysis/)
+## Where
+  
+- These notebooks and python codes are published on [Github](https://github.com/xiaozhouli/Jupyter/tree/master/Numerical_Analysis) (https://github.com/xiaozhouli/numerical\_analysis) for public usages.
+  - git clone https://github.com/xiaozhouli/numerical_analysis.git 
+  - or download as a zip file [zip file](https://codeload.github.com/xiaozhouli/numerical_analysis/zip/master)
+- For users from Mainland China, where visiting github.com is relatively slow, there is a mirror repository published on [gitee](https://gitee.com/xiaozhouli/numerical_analysis) (https://gitee.com/xiaozhouli/numerical\_analysis).
+  - git clone https://gitee.com/xiaozhouli/numerical_analysis.git 
+  - or download as a zip file from the above link.
+- If you only want to have a view of the notebooks, you can just go to the following [Nbviewer link](https://nbviewer.jupyter.org/github/xiaozhouli/Jupyter/tree/master/Numerical_Analysis/)
 
-Also, you can simply download the notebooks and play with them yourself.  Of course, then you need a local or cloud version of Jupyter-notebook.
+
+*** 
+## How to use
+You are welcome to download the notebooks and play with them yourself.  Of course, then you need a local or cloud installation of python and jupyter-notebook to run them.
 
 **Local installation:** 
 
-The simplest way to have a local installation of all the software on the computer is to install the [Anaconda platform](https://www.anaconda.org).  It is free and include Python, IPython, and all of the Python packages likely to be used in scientific computing course.  More import, it can easily be installed on Linux, Mac, and Windows systems.
+- The simplest way to have a local installation of all needed packages is to install the [Anaconda platform](https://www.anaconda.org). It is free and open-source.  It has more than 1500 python/R data science packages which includes all of the Python packages likely to be used in a scientific computing (or machine learning) course. More importantly, it supports Linux, Mac, and Windows systems.
+
+- If you prefer to install everything manually, the requirement list is given as follows:
+  - python
+  - jupyter notebook / jupyter lab
+  - numpy, scipy, matplotlib, ipywidgets
 
 **Cloud platforms:**
 
 In order to avoid potential installation issues altogether, or as a secondary option, notebooks can be run using only cloud services.
-* [Cocalc](https://cocalc.com/doc/jupyter-notebook.html)
+
+- [Cocalc](https://cocalc.com/doc/jupyter-notebook.html) (formerly called SageMathCloud)
+- [Colab](https://colab.research.google.com) (VPN needed for Mainland China)
 
   
 
@@ -90,6 +100,7 @@ In order to avoid potential installation issues altogether, or as a secondary op
 
 | Time       |      Content       |
 | :--------- | :----------------: |
+| 2020.10.10 | complete the README information  |
 | 2020.10.09 | create a gitee.com mirror repository for fast access in China mainland  |
 | 2020.10.09 | move from github.com/Jupyter repository to github.com/numerical_analysis |
 | 2020.09.07 | update along with 2020 Fall course |
